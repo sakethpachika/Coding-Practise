@@ -1,5 +1,3 @@
-# Python-Coding
+# Python and SQL Coding practise
 
-Leet Code Practise Questions
-
-# Two Sum - 1. 
+This repository consists of random practise questions from leetcode, problem number is stated on top of each coding file
